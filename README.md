@@ -1,6 +1,6 @@
 # SWIFT-Alabaster
 <<<<<<< HEAD
-Swift Algo trading indicator
+Swift Algo trading indicator for BYBIT Crypto Trading
 =======
 
 Swift algo trading indicator.
